@@ -56,13 +56,17 @@ client.close()
 ```
 ## OUPUT
 ## SAMPLE.TXT:
-<img width="1689" height="784" alt="image" src="https://github.com/user-attachments/assets/5f4ca44f-b7c6-4190-9504-1845137dad32" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/40426a65-b6f6-4473-8d4b-fbef7a73d6f9" />
+
 ## SERVER.PY:
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c78ac126-16eb-4a25-9338-844a289ae077" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f71ef3ef-ca84-473d-86c8-e7f876e19f51" />
+
 ## CLIENT.PY:
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a036bbbc-7994-49f2-a402-4c65a7aa2711" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5d694b3b-591b-4d08-bc65-ae9372d2cb8f" />
+
 ## RECEIVED.TXT:
-<img width="1906" height="286" alt="image" src="https://github.com/user-attachments/assets/8740d888-b7ff-47c9-964b-07e89cb481c0" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/43a2323f-37ab-4bdd-9613-5ce4b2efe68e" />
+
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
